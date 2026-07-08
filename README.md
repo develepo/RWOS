@@ -412,7 +412,7 @@ Ideas for extending RWOS:
 
 ## License
 
-MIT - Feel free to fork anmod dify!
+MIT - Feel free to fork and modify!
 
 ## Support
 
